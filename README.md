@@ -49,7 +49,7 @@ Here's a glimpse of the structured workflow I have followed for each project:
 
 8. **TensorBoard Visualization:** TensorBoard provides visual insights into key metrics for effective model evaluation.
 
-9. **Model Performance Analysis:** Rigorous evaluation, including Confusion Matrix and Classification Report, sheds light on model performance.
+9. **Model Performance Analysis:** RI conduct thorough model evaluations, including Confusion Matrix[TP,FP,TN,FN], F1-score,Classification Report, Precision-Recall Curve, ROC-AUC Curve.
 
 10. **Model Conversion:** Models seamlessly transform into ONNX and TF Lite formats, optimizing efficiency for edge device deployment.
 
