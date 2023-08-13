@@ -49,13 +49,13 @@ Here's a glimpse of the structured workflow I have followed for each project:
 
 8. **TensorBoard Visualization:** TensorBoard provides visual insights into key metrics for effective model evaluation.
 
-9. **Model Performance Analysis:** RI conduct thorough model evaluations, including Confusion Matrix[TP,FP,TN,FN], F1-score,Classification Report, Precision-Recall Curve, ROC-AUC Curve.
+9. **Model Performance Analysis:** I conduct thorough model evaluations, including Confusion Matrix[TP,FP,TN,FN], F1-score,Classification Report, Precision-Recall Curve, ROC-AUC Curve.
 
 10. **Model Conversion:** Models seamlessly transform into ONNX and TF Lite formats, optimizing efficiency for edge device deployment.
 
-11. **FastAPI Integration:** FastAPI takes center stage, enabling real-time model deployment and inference.
+11. **FastAPI Integration:** Basic FastAPI techniques are implemented for demonstrating how to deploy the trained models using FastAPI, enabling real-time inference.
 
-12. **MLOps Integration:** MLFlow techniques intertwine, enhancing model tracking and management.
+12. **MLOps Integration:** Basic MLFlow techniques are implemented for streamlined model tracking and management.
 
 ## Independent Model Implementations and Transfer Learning
 As a testament to my dedication and understanding of deep learning models, I've implemented several models from scratch. This hands-on approach allowed me to deeply comprehend the models' inner workings and adapt them effectively to unique project challenges. Additionally, I've undertaken transfer learning tasks, fine-tuning pre-trained models on relevant datasets to optimize their performance within the automotive domain.
