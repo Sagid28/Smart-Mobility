@@ -29,7 +29,7 @@ My expertise goes beyond merely applying models – it's an intricate interplay 
 - VGG-19
 - ResNet-18
 
-## Shedding Light on the Workflow
+## Workflow Highlights
 
 Prepare to be captivated by the dynamic journey of each project:
 
